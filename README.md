@@ -1,2 +1,3 @@
 # kubetree
-Get tree of objects by onwer reference in a Kubernetes cluster
+Get tree of objects by owner reference in a Kubernetes cluster
+
